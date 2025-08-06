@@ -1,0 +1,1 @@
+console.log("Site Masui IA carregado com sucesso!");
